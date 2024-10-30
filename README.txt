@@ -1,0 +1,1 @@
+Como os símbolos são sempre os mesmos números e as equações nunca mudam, resta apenas saber qual símbolo corresponde a cada variável no seu jogo e testar.
